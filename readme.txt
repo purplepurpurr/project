@@ -19,7 +19,7 @@ Regardless of the criteria stipulated by the administration staff, our system ul
 
 
 2. Basis of Idea
-We operated on the basis of the K.I.S.S. principle - to keep everything simple and succinct. Essentially, we wanted our system to be 
+We operated on the basis of the K.I.S.S. principle - to Keep It Simple and Succinct. Essentially, we wanted our system to be 
 similar to a bicycle frame that can be easily built on top of. We hoped that by utilising Excel as our main platform for our endeavour, 
 it would not only allow for the ease of modification, but also to serve as a continued learning opportunity that we can learn from as we 
 continue to explore on the subject matter (even after the event) as we expect Excel to be a mainstay in similar processes going forward. 
